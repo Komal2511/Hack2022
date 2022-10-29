@@ -2,13 +2,13 @@
 """
 Created on Sat Oct 29 11:56:44 2022
 
-@author: DELL
+@author: Komal and Omkar
 """
 
 # Python Program to calculate the square root
 
 # Note: change this value for a different result
-num = 8 
+num = 64
 
 # To take the input from the user
 #num = float(input('Enter a number: '))
