@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 29 12:59:32 2022
 
-@author: DELL
+@author: Komal and Omkar
 """
 
 # Program to display the Fibonacci sequence up to n-th term
@@ -10,7 +10,7 @@ Created on Sat Oct 29 12:59:32 2022
 nterms = int(input("How many terms? "))
 
 # first two terms
-n1, n2 = 0, 1
+n1, n2 = 1, 3
 count = 0
 
 # check if the number of terms is valid
