@@ -2,14 +2,14 @@
 """
 Created on Sat Oct 29 12:00:37 2022
 
-@author: DELL
+@author: Komal and Omkar
 """
 
 # Python Program to find the area of triangle
 
-a = 5
-b = 6
-c = 7
+a = 14
+b = 9
+c = 18
 
 # Uncomment below to take inputs from the user
 # a = float(input('Enter first side: '))
