@@ -2,12 +2,12 @@
 """
 Created on Sat Oct 29 12:01:36 2022
 
-@author: DELL
+@author: Komal and Omkar
 """
 
 # Python program to check if year is a leap year or not
 
-year = 2000
+year = 1999
 
 # To get year (integer input) from the user
 # year = int(input("Enter a year: "))
