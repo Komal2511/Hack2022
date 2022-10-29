@@ -2,11 +2,11 @@
 """
 Created on Sat Oct 29 12:02:09 2022
 
-@author: DELL
+@author: Komal And Omkar
 """
 
 # Python program to check if the number is an Armstrong number or not
-
+# An Armstrong number is one whose sum of digits raised to the power three equals the number itself.
 # take input from the user
 num = int(input("Enter a number: "))
 
