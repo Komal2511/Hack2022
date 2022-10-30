@@ -10,7 +10,7 @@ Created on Sat Oct 29 12:59:32 2022
 nterms = int(input("How many terms? "))
 
 # first two terms
-n1, n2 = 1, 3
+n1, n2 = 1, 2
 count = 0
 
 # check if the number of terms is valid
@@ -30,3 +30,4 @@ else:
        n1 = n2
        n2 = nth
        count += 1
+ print("Done")
